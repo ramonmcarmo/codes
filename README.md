@@ -1,5 +1,5 @@
 # codes
 
-Branch respostas contém arquivo .TXT com as questões teóricas e suas respostas.
+Pasta Conndatabase com projeto JAVA de conexão com banco de dados simples.
 
-Branch questão 8 e questão 9 contém os projetos das questões práticas.
+Branch s2it com questões e respostas da avaliação técnica.
